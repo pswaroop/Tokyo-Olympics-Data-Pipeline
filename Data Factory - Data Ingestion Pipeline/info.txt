@@ -1,0 +1,6 @@
+selected resource name:		DataIngestionPipeline
+selected resource type:		pipeline
+factory name:			TokyoOlympicsDataFactory-1
+factory location:		southindia
+subscription id:		31069fa8-25ce-4a53-8512-98ffd57e922e
+time of download (UTC):		Sat, 14 Dec 2024 07:28:09 GMT

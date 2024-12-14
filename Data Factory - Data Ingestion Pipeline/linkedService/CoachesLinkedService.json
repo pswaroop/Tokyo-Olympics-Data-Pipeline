@@ -1,0 +1,13 @@
+{
+    "name": "CoachesLinkedService",
+    "type": "Microsoft.DataFactory/factories/linkedservices",
+    "properties": {
+        "annotations": [],
+        "type": "HttpServer",
+        "typeProperties": {
+            "url": "https://github.com/pswaroop/Tokyo-Olympics-Data-Pipeline/raw/refs/heads/main/data/Coaches.csv",
+            "enableServerCertificateValidation": true,
+            "authenticationType": "Anonymous"
+        }
+    }
+}
